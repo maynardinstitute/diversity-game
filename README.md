@@ -1,1 +1,1 @@
-# diversity-game
+# MIJE diversity-game
